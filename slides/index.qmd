@@ -1,0 +1,38 @@
+---
+title: Présentation du réseau des data-scientists de la statistique publique
+subtitle: |
+  **Séminaire d'intégration des administrateurs de l'Insee**
+author: |
+  [Lino Galiana](https://www.linogaliana.fr/)
+date: XXXXX
+slide-number: true
+footer: |
+  Réseau des data-scientists de la statistique publique
+# uncomment for French presentations:
+#lang: fr-FR
+# for blind readers:
+slide-tone: false
+# for @olevitt:
+chalkboard: # press the B key to toggle chalkboard
+  theme: whiteboard
+# uncomment to use the multiplex mode:
+#multiplex: true
+format:
+  # pick the light mode (onyxia-revealjs) or the dark mode (onyxia-dark-revealjs)
+  onyxia-revealjs:
+  #onyxia-dark-revealjs:
+    output-file: index.html
+controls: true
+css: custom.css
+from: markdown+emoji
+bibliography: references.bib
+---
+
+
+
+
+# Partie 1
+
+## Essai
+
+
