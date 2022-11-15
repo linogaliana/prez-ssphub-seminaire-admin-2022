@@ -1,5 +1,5 @@
 body:after {
-    content: url(logo-statpub.png);
+    content: url(logo.svg);
     position: fixed;
     top: 0.5em;
     left: 0.5em;
