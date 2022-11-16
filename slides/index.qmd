@@ -31,8 +31,13 @@ bibliography: references.bib
 
 
 
-# Partie 1
+# Contexte
 
-## Essai
+## Les besoins de _data-science_ sont partout
+
+- Contexte général:
+  + Cycle de production de la donnée accéléré
+  + Innovations à tous les stades du processus de production de la donnée: traitement, visualisation, modélisation...
+  + Méthodes de travail plus agiles
 
 
