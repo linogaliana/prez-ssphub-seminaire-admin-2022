@@ -1,15 +1,15 @@
 ---
-title: Présentation du réseau des data-scientists de la statistique publique
+title: Le réseau des data-scientists de la statistique publique
 subtitle: |
   **Séminaire d'intégration des administrateurs de l'Insee**
 author: |
   [Lino Galiana](https://www.linogaliana.fr/)
-date: XXXXX
+date: 28-11-2022
 slide-number: true
 footer: |
-  Réseau des data-scientists de la statistique publique
+  Le réseau des data-scientists de la statistique publique
 # uncomment for French presentations:
-#lang: fr-FR
+lang: fr-FR
 # for blind readers:
 slide-tone: false
 # for @olevitt:
@@ -33,11 +33,122 @@ bibliography: references.bib
 
 # Contexte
 
+## Contexte général
+
++ Cycle de production de la donnée accéléré
++ Innovations à tous les stades du processus de production de la donnée: traitement, visualisation, modélisation...
++ Méthodes de travail plus agiles
+
+## {auto-animate="true"}
+
+2015
+
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
+
+
+
+## {auto-animate="true"}
+
+2016
+
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
+
+
+## {auto-animate="true"}
+
+2017
+
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2017/05/Matt-Turck-FirstMark-2017-Big-Data-Landscape.png)
+
+
+## {auto-animate="true"}
+
+2018
+
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2018/06/Matt-Turck-FirstMark-Big-Data-Landscape-2018.png)
+
+
+## {auto-animate="true"}
+
+2019
+
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png)
+
+
+## {auto-animate="true"}
+
+2020 
+
+![](tobeincluded)
+
+
+## {auto-animate="true"}
+
+2021
+
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg)
+
+
+
 ## Les besoins de _data-science_ sont partout
 
-- Contexte général:
-  + Cycle de production de la donnée accéléré
-  + Innovations à tous les stades du processus de production de la donnée: traitement, visualisation, modélisation...
-  + Méthodes de travail plus agiles
+
+- Contexte institutionnel:
+  + Reconnaissance besoin data-scientists dans l'administration
+  + Difficulté à conserver les data-scientists
+  + Réforme des grands corps techniques
 
 
+
+## Solutions envisagées
+
+
+Solutions:
+- Le Réseau
+- Programme 10%
+
+::: {.callout-note}
+## Références
+- « Les corps de l’INSEE et les carrières de data scientist » août 2020
+- « Création d’un réseau de data scientists du SSP » novembre 2020
+- Rapport INSEE-DINUM sur l’[« Évaluation des besoins de l’État en compétences et expertise en matière de donnée »](https://www.numerique.gouv.fr/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/)
+:::
+
+## Organisation
+
+- Groupe informel
+- Gouvernance collective: 7 "référents"
+- Manifeste écrit collectivement
+
+## Objectifs
+
+1. Formations
+1. Faciliter l’échange entre pairs
+2. Offrir une vitrine des initiatives de data science 
+2. Accompagner de manière ponctuelle des équipes
+2. Valoriser compétences des profils data scientists
+
+## Site web
+
+https://ssphub.netlify.app/
+
+
+Manifeste du réseau
+Monographie des sujets de data science
+Identifier qui travaille sur quoi pour solliciter de l’aide (via mots clefs) : décloisonner
+Une page par sujet, ou un renvoi vers des ressources existantes (dont Git)
+Formations & Bonnes Pratiques
+Index des formations publiques en ligne déjà existantes (+ rappel des canaux standards de formation)
+Guide de bonnes pratiques et boîte à outils sur sujets plus précis
+
+## Diffusion plus large d'actualités
+
+Rappel succinct des évènements passés/à venir et actualités (formations, ressources, sujets)
+Revue d'actualité de l'écosystème de la donnée (_technologique_, _juridique_, institutionnelle...)
+Pour toutes personnes intéressées ne serait-ce que par un aspect de la data science et des évènements proposés
+
+
+
+## Evenements
+
+## Perspectives
