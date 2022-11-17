@@ -120,6 +120,10 @@ Solutions:
 - Gouvernance collective: 7 "référents"
 - Manifeste écrit collectivement
 
+## Public cible
+
+cf. manifeste
+
 ## Objectifs
 
 1. Formations
@@ -127,6 +131,8 @@ Solutions:
 2. Offrir une vitrine des initiatives de data science 
 2. Accompagner de manière ponctuelle des équipes
 2. Valoriser compétences des profils data scientists
+
+# Moyens d'action
 
 ## Site web
 
@@ -151,4 +157,6 @@ Pour toutes personnes intéressées ne serait-ce que par un aspect de la data sc
 
 ## Evenements
 
-## Perspectives
+# Perspectives
+
+??
