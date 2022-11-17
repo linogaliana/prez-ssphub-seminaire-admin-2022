@@ -41,6 +41,19 @@ bibliography: references.bib
 
 ## {auto-animate="true"}
 
+2012
+
+![](img/turck2012.png)
+
+
+## {auto-animate="true"}
+
+2014
+
+![](img/turck2014.png)
+
+## {auto-animate="true"}
+
 2015
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
@@ -79,7 +92,7 @@ bibliography: references.bib
 
 2020 
 
-![](tobeincluded)
+![](/img/turck2020.png)
 
 
 ## {auto-animate="true"}
