@@ -52,6 +52,11 @@ bibliography: references.bib
 :::
 
 
+## Contexte général
+
+![](img/snake-ds.png)
+
+
 ## {auto-animate="true"}
 
 2012
@@ -114,15 +119,15 @@ bibliography: references.bib
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg)
 
-## Data-scientist aujourd'hui
+## Les data-scientists aujourd'hui
 
-Dessin mouton à 5 pattes
+![](img/dallE-mouton.png)
 
-## Contexte institutionnel
+## Contexte institutionnel {.smaller}
 
 - [Besoin _data-scientists_]{.blue} dans l'administration
 - [Difficulté à conserver]{.blue} les data-scientists
-- Gains à la mutualisation
+- Gains à la [mutualisation]{.blue}
 - [Réforme]{.blue} des Grands Corps techniques
 
 ::: {.callout-note}
@@ -157,9 +162,13 @@ Dessin mouton à 5 pattes
 
 ## Organisation
 
-- Groupe informel
+- Groupe informel :
+  + $\approx$ 280 inscrits volontaires dans la _mailing list_
+  + $\approx$ 150 sur `Tchap`
 - Gouvernance collective: 7 "référents"
 - Manifeste écrit collectivement
+https://ssphub.netlify.app/manifeste/
+
 
 ## Public cible
 
