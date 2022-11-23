@@ -36,8 +36,21 @@ bibliography: references.bib
 ## Contexte général
 
 + Cycle de production de la donnée accéléré
+
+. . .
+
 + Innovations à tous les stades du processus de production de la donnée: traitement, visualisation, modélisation...
+
+. . .
+
 + Méthodes de travail plus agiles
+
+::: {.callout-note}
+## Références
+- Davenport, T. H., & Patil, D. J. (2012). "_Data scientist: The Sexiest Job of the 21st Century_". _Harvard business review_, 90(5), 70-76.
+- Davenport, T. H., & Patil, D. J. (2022). "_Is Data Scientist Still the Sexiest Job of the 21st Century? _".
+:::
+
 
 ## {auto-animate="true"}
 
@@ -101,31 +114,37 @@ bibliography: references.bib
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg)
 
+## Data-scientist aujourd'hui
 
+Dessin mouton à 5 pattes
 
-## Les besoins de _data-science_ sont partout
+## Contexte institutionnel
 
-
-- Contexte institutionnel:
-  + Reconnaissance besoin data-scientists dans l'administration
-  + Difficulté à conserver les data-scientists
-  + Réforme des grands corps techniques
-
-
-
-## Solutions envisagées
-
-
-Solutions:
-- Le Réseau
-- Programme 10%
+- [Besoin _data-scientists_]{.blue} dans l'administration
+- [Difficulté à conserver]{.blue} les data-scientists
+- [Réforme]{.blue} des Grands Corps techniques
 
 ::: {.callout-note}
 ## Références
 - « Les corps de l’INSEE et les carrières de data scientist » août 2020
 - « Création d’un réseau de data scientists du SSP » novembre 2020
 - Rapport INSEE-DINUM sur l’[« Évaluation des besoins de l’État en compétences et expertise en matière de donnée »](https://www.numerique.gouv.fr/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/)
+- [« Réforme de la haute fonction publique : pour une gestion des ingénieurs par domaines de compétences »](https://www.vie-publique.fr/rapport/283893-reforme-de-la-haute-fonction-publique-les-grands-corps-techniques) Rapport au Premier ministre sur les grands corps techniques de l'État
 :::
+
+
+## Solutions envisagées {.smaller}
+
+
+- Le __[réseau des _data-scientists_](https://ssphub.netlify.app/)__
+    + Existence officielle depuis septembre
+
+. . .
+
+- Le __[programme 10%](https://10pourcent.etalab.studio/programme/)__
+    + Fonctionnement par projets : OCRisation, publications reproductibles, siretisation, `cartiflette`
+
+![](https://10pourcent.etalab.studio/img/calendrier.png)
 
 ## Organisation
 
