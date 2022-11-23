@@ -122,6 +122,7 @@ Dessin mouton à 5 pattes
 
 - [Besoin _data-scientists_]{.blue} dans l'administration
 - [Difficulté à conserver]{.blue} les data-scientists
+- Gains à la mutualisation
 - [Réforme]{.blue} des Grands Corps techniques
 
 ::: {.callout-note}
@@ -131,6 +132,11 @@ Dessin mouton à 5 pattes
 - Rapport INSEE-DINUM sur l’[« Évaluation des besoins de l’État en compétences et expertise en matière de donnée »](https://www.numerique.gouv.fr/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/)
 - [« Réforme de la haute fonction publique : pour une gestion des ingénieurs par domaines de compétences »](https://www.vie-publique.fr/rapport/283893-reforme-de-la-haute-fonction-publique-les-grands-corps-techniques) Rapport au Premier ministre sur les grands corps techniques de l'État
 :::
+
+## Principaux enseignements
+
+- Besoin d'échanges entre data-scientists
+- XXXX
 
 
 ## Solutions envisagées {.smaller}
