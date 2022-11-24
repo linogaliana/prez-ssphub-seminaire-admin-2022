@@ -232,24 +232,23 @@ bibliography: references.bib
 
 # Moyens d'action
 
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/)
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
 
-## {auto-animate=true}
+![](img/image1.png)
 
-![](image1.png)
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
 
-## {auto-animate=true}
+![](img/image2.png)
 
-![](image2.png)
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
 
-## {auto-animate=true}
+![](img/image3.png)
 
-![](image3.png)
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
 
-## {auto-animate=true}
+![](img/image4.png)
 
-![](image4.png)
-
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) 
 
 Manifeste du réseau
 Monographie des sujets de data science
