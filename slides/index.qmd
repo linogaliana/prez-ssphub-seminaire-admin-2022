@@ -38,20 +38,20 @@ bibliography: references.bib
 > _"Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician."_
 > J. Wills
 
-![](img/snake-ds.png)
+![](img/snake-ds.png){fig-align="center"}
 
 
 ## Contexte général
 
-+ Cycle de production de la donnée accéléré
++ [__Cycle de production__]{.blue} de la donnée [__accéléré__]{.blue}
 
 . . .
 
-+ Innovations à tous les stades du processus de production de la donnée: traitement, visualisation, modélisation...
++ [__Innovations à tous les stades__]{.blue} du processus de production de la donnée: traitement, visualisation, modélisation...
 
 . . .
 
-+ Méthodes de travail plus agiles
++ Méthodes de travail plus [__agiles__]{.blue}
 
 ::: {.callout-note}
 ## Références
