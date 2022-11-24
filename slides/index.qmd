@@ -60,67 +60,66 @@ bibliography: references.bib
 :::
 
 
-## {auto-animate="true"}
+## Contexte général {transition="fade-in slide-out"} 
 
-2012
+#### 2012
 
 ![](img/turck2012.png)
 
 
-## {auto-animate="true"}
+## Contexte général {transition="fade-in slide-out"} 
 
-2014
+#### 2014
 
 ![](img/turck2014.png)
 
-## {auto-animate="true"}
+## Contexte général {transition="fade-in slide-out"} 
 
-2015
+#### 2015
+
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
+
+## Contexte général {transition="fade-in slide-out"} 
+
+#### 2016
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
 
 
+## Contexte général {transition="fade-in slide-out"} 
 
-## {auto-animate="true"}
-
-2016
-
-![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
-
-
-## {auto-animate="true"}
-
-2017
+#### 2017
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2017/05/Matt-Turck-FirstMark-2017-Big-Data-Landscape.png)
 
 
-## {auto-animate="true"}
+## Contexte général {transition="fade-in slide-out"} 
 
-2018
+#### 2018
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2018/06/Matt-Turck-FirstMark-Big-Data-Landscape-2018.png)
 
 
-## {auto-animate="true"}
+## Contexte général {transition="fade-in slide-out"} 
 
-2019
+#### 2019
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png)
 
 
-## {auto-animate="true"}
+## Contexte général {transition="fade-in slide-out"} 
 
-2020 
+#### 2020 
 
 ![](/img/turck2020.png)
 
 
-## {auto-animate="true"}
+## Contexte général {transition="fade-in slide-out"} 
 
-2021
+#### 2021
 
 ![](http://mattturck.wpenginepowered.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg)
+
 
 ## Les data-scientists aujourd'hui
 
@@ -232,42 +231,101 @@ bibliography: references.bib
 
 # Moyens d'action
 
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
 ![](img/image1.png)
 
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
-
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 ![](img/image2.png)
 
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
 ![](img/image3.png)
 
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {transition="fade-in slide-out"}
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
 ![](img/image4.png)
 
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) 
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
+![](img/image8.png)
 
-Manifeste du réseau
-Monographie des sujets de data science
-Identifier qui travaille sur quoi pour solliciter de l’aide (via mots clefs) : décloisonner
-Une page par sujet, ou un renvoi vers des ressources existantes (dont Git)
-Formations & Bonnes Pratiques
-Index des formations publiques en ligne déjà existantes (+ rappel des canaux standards de formation)
-Guide de bonnes pratiques et boîte à outils sur sujets plus précis
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-## Diffusion plus large d'actualités
-
-Rappel succinct des évènements passés/à venir et actualités (formations, ressources, sujets)
-Revue d'actualité de l'écosystème de la donnée (_technologique_, _juridique_, institutionnelle...)
-Pour toutes personnes intéressées ne serait-ce que par un aspect de la data science et des évènements proposés
+![](img/image5.png)
 
 
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
+![](img/image6.png)
 
-## Evenements
 
-# Perspectives
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/)  [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-??
+![](img/image7.png)
+
+
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
+
+![](img/image9.png)
+
+
+
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {#bilan-ssphub}
+
+- Site web comme porte d'entrée :
+    + Vers nos projets et actions ;
+    + Vers des ressources utiles ;
+    + Vers nos partenaires.
+
+. . .
+
+- Décloisonner en faisant connaître nos projets
+
+. . .
+
+- Communiquer sur nos valeurs
+
+
+## Newsletter
+
+- Rappel des évènements passés/à venir et actualités (formations, ressources, sujets)
+- Valorisation des initiatives individuelles et collectives
+- Revue d'actualité de l'écosystème de la donnée (_technologique_, _juridique_, institutionnelle...)
+- Rejoignez là !
+
+
+## Evénements
+
+- OpenHour: retour d'expérience et débats sur une problématique ciblée
+    + Exemple: [bonnes pratiques et valorisation projets _data-science_](https://ssphub.netlify.app/uploads/2022-02-07-open-hour-bonnes-pratiques.pdf)
+
+. . .
+
+- Invitation d'extérieurs pour présenter travaux/outils
+    + Exemple: [présentation `observable` par Nicolas Lambert](https://ssphub.netlify.app/talk/presentation-dobservable-par-nicolas-lambert/)
+
+. . .
+
+- Masterclass `DataScientest`
+    + Exemple: MLOps
+
+
+## Perspectives
+
+- Partenariat avec `DataScientest` :
+    + Masterclass régulières (2/mois)
+    + D'autres partenariats à venir !
+
+. . .
+
+- Amélioration progressive du site web
+
+. . .
+
+- <i class="fa-solid fa-lightbulb"></i> Projet d'un __[grand événement de lancement]{.blue}__ en 2023:
+    + Présentations, retours d'expérience, tables rondes...
+
+
+
+## Rejoignez et faites vivre le réseau !
+
+![](https://techcrunch.com/wp-content/uploads/2015/04/uncle-sam-we-want-you1-kopie_1.png)
