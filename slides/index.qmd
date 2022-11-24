@@ -1,5 +1,5 @@
 ---
-title: Le réseau des data-scientists de la statistique publique
+title: Le réseau des data-scientists du SSP
 subtitle: |
   **Séminaire d'intégration des administrateurs de l'Insee**
 author: |
@@ -33,6 +33,14 @@ bibliography: references.bib
 
 # Contexte
 
+## Contexte général {.smaller}
+
+> _"Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician."_
+> J. Wills
+
+![](img/snake-ds.png)
+
+
 ## Contexte général
 
 + Cycle de production de la donnée accéléré
@@ -50,11 +58,6 @@ bibliography: references.bib
 - Davenport, T. H., & Patil, D. J. (2012). "_Data scientist: The Sexiest Job of the 21st Century_". _Harvard business review_, 90(5), 70-76.
 - Davenport, T. H., & Patil, D. J. (2022). "_Is Data Scientist Still the Sexiest Job of the 21st Century? _".
 :::
-
-
-## Contexte général
-
-![](img/snake-ds.png)
 
 
 ## {auto-animate="true"}
@@ -127,7 +130,7 @@ bibliography: references.bib
 
 - [Besoin _data-scientists_]{.blue} dans l'administration
 - [Difficulté à conserver]{.blue} les data-scientists
-- Gains à la [mutualisation]{.blue}
+- Gains à la [mutualisation]{.blue} de solutions disséminées dans plusieurs organisations
 - [Réforme]{.blue} des Grands Corps techniques
 
 ::: {.callout-note}
@@ -140,9 +143,21 @@ bibliography: references.bib
 
 ## Principaux enseignements
 
-- Besoin d'échanges entre data-scientists
-- XXXX
+- Besoin de __[formation en continu]{.blue}__ dans un _champ_ mouvant
 
+. . .
+
+- Besoin d'[**échanges**]{.blue} entre _data-scientists_
+
+. . .
+
+- Besoin d'une [**vitrine**]{.blue} pour les projets novateurs
+
+. . .
+
+- Des [**besoins RH**]{.blue}:
+    + __400__ experts nécessaires en plus (horizon 2023)
+    + Valoriser profils _data-scientists_ dans les parcours RH
 
 ## Solutions envisagées {.smaller}
 
@@ -162,31 +177,78 @@ bibliography: references.bib
 
 ## Organisation
 
-- Groupe informel :
-  + $\approx$ 280 inscrits volontaires dans la _mailing list_
-  + $\approx$ 150 sur `Tchap`
-- Gouvernance collective: 7 "référents"
-- Manifeste écrit collectivement
-https://ssphub.netlify.app/manifeste/
+- Groupe informel, sur la base du volontariat :
+  + $\approx$ [__280__]{.blue} inscrits volontaires dans la _mailing list_
+  + $\approx$ [__150__]{.blue} sur `Tchap`
+
+. . .
+
+- __[Gouvernance collective]{.blue}__:
+    + 7 "référents"
+    + Organisation horizontale
+
+. . .
+
+- __[Manifeste](https://ssphub.netlify.app/manifeste/)__ écrit collectivement
+
 
 
 ## Public cible
 
-cf. manifeste
+- [__Tous les agents__]{.blue} du Service Statistique Public:
+    + Indépendamment du niveau d'expertise
+    + Chacun peut s'intéresser à une partie restreinte des ressources
+
+. . .
+
+- Proposer du [__contenu pour tous__]{.blue} :
+    + Différents niveaux ressources coexistent
+    + Entrées thématiques
+
 
 ## Objectifs
 
-1. Formations
-1. Faciliter l’échange entre pairs
-2. Offrir une vitrine des initiatives de data science 
-2. Accompagner de manière ponctuelle des équipes
-2. Valoriser compétences des profils data scientists
+- Faciliter l’[échange entre pairs]{.blue} et l'[émulation]{.blue}
+
+. . .
+
+- [Relayer des formations]{.blue} et ressources utiles
+
+. . .
+
+- [Créer collectivement du contenu]{.blue}, indépendamment de notre institution d'origine
+
+. . .
+
+- [Accompagner]{.blue} de manière ponctuelle des équipes
+
+. . .
+
+- Offrir une [vitrine]{.blue} des initiatives de data science 
+
+. . .
+
+- [Valoriser compétences]{.blue} des profils data scientists
 
 # Moyens d'action
 
-## Site web
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/)
 
-https://ssphub.netlify.app/
+## {auto-animate=true}
+
+![](image1.png)
+
+## {auto-animate=true}
+
+![](image2.png)
+
+## {auto-animate=true}
+
+![](image3.png)
+
+## {auto-animate=true}
+
+![](image4.png)
 
 
 Manifeste du réseau
