@@ -64,73 +64,73 @@ bibliography: references.bib
 
 #### 2012
 
-![](img/turck2012.png)
+![](img/turck2012.png){fig-align="center"}
 
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2014
 
-![](img/turck2014.png)
+![](img/turck2014.png){fig-align="center"}
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2015
 
-![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png){fig-align="center"}
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2016
 
-![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png)
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png){fig-align="center"}
 
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2017
 
-![](http://mattturck.wpenginepowered.com/wp-content/uploads/2017/05/Matt-Turck-FirstMark-2017-Big-Data-Landscape.png)
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2017/05/Matt-Turck-FirstMark-2017-Big-Data-Landscape.png){fig-align="center"}
 
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2018
 
-![](http://mattturck.wpenginepowered.com/wp-content/uploads/2018/06/Matt-Turck-FirstMark-Big-Data-Landscape-2018.png)
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2018/06/Matt-Turck-FirstMark-Big-Data-Landscape-2018.png){fig-align="center"}
 
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2019
 
-![](http://mattturck.wpenginepowered.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png)
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png){fig-align="center"}
 
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2020 
 
-![](/img/turck2020.png)
+![](/img/turck2020.png){fig-align="center"}
 
 
 ## Contexte général {transition="fade-in slide-out"} 
 
 #### 2021
 
-![](http://mattturck.wpenginepowered.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg)
+![](http://mattturck.wpenginepowered.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg){fig-align="center"}
 
 
 ## Les data-scientists aujourd'hui
 
-![](img/dallE-mouton.png)
+![](img/dallE-mouton.png){fig-align="center"}
 
 ## Contexte institutionnel {.smaller}
 
-- [Besoin _data-scientists_]{.blue} dans l'administration
-- [Difficulté à conserver]{.blue} les data-scientists
-- Gains à la [mutualisation]{.blue} de solutions disséminées dans plusieurs organisations
-- [Réforme]{.blue} des Grands Corps techniques
+- [**Besoin _data-scientists_**]{.blue} dans l'administration
+- [**Difficulté à conserver**]{.blue} les data-scientists
+- Gains à la [**mutualisation**]{.blue} de solutions disséminées dans plusieurs organisations
+- [**Réforme**]{.blue} des Grands Corps techniques
 
 ::: {.callout-note}
 ## Références
@@ -207,95 +207,113 @@ bibliography: references.bib
 
 ## Objectifs
 
-- Faciliter l’[échange entre pairs]{.blue} et l'[émulation]{.blue}
+- Faciliter l’[__échange entre pairs__]{.blue} et l'[__émulation__]{.blue}
 
 . . .
 
-- [Relayer des formations]{.blue} et ressources utiles
+- [__Relayer des formations__]{.blue} et ressources utiles
 
 . . .
 
-- [Créer collectivement du contenu]{.blue}, indépendamment de notre institution d'origine
+- [__Créer collectivement du contenu__]{.blue}, indépendamment de notre institution d'origine
 
 . . .
 
-- [Accompagner]{.blue} de manière ponctuelle des équipes
+- [__Accompagner__]{.blue} de manière ponctuelle des équipes
 
 . . .
 
-- Offrir une [vitrine]{.blue} des initiatives de data science 
+- Offrir une [__vitrine__]{.blue} des initiatives de data science 
 
 . . .
 
-- [Valoriser compétences]{.blue} des profils data scientists
+- [__Valoriser compétences__]{.blue} des profils data scientists
 
 # Moyens d'action
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-![](img/image1.png)
-
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
-![](img/image2.png)
+![](img/image1.png){fig-align="center"}
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-![](img/image3.png)
+![](img/image2.png){fig-align="center"}
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-![](img/image4.png)
-
-## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
-![](img/image8.png)
+![](img/image3.png){fig-align="center"}
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-![](img/image5.png)
+![](img/image4.png){fig-align="center"}
+
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
+
+![](img/image8.png){fig-align="center"}
+
+## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
+
+![](img/image5.png){fig-align="center"}
 
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
-![](img/image6.png)
+
+![](img/image6.png){fig-align="center"}
 
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/)  [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-![](img/image7.png)
+![](img/image7.png){fig-align="center"}
 
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) [⏩](#bilan-ssphub) {transition="fade-in slide-out"} 
 
-![](img/image9.png)
+![](img/image9.png){fig-align="center"}
 
 
 
 ## Site web: [ssphub.netlify.app/](https://ssphub.netlify.app/) {#bilan-ssphub}
 
-- Site web comme porte d'entrée :
+- Site web comme [__porte d'entrée__]{.blue} :
     + Vers nos projets et actions ;
     + Vers des ressources utiles ;
     + Vers nos partenaires.
 
 . . .
 
-- Décloisonner en faisant connaître nos projets
+- [__Décloisonner__]{.blue} en faisant connaître nos projets
 
 . . .
 
-- Communiquer sur nos valeurs
+- Communiquer sur [__nos valeurs__]{.blue}
 
+. . .
+
+- Nouer des [__partenariats__]{.blue} avec des extérieurs
+    + Chercheurs, institutions...
 
 ## Newsletter
 
-- Rappel des évènements passés/à venir et actualités (formations, ressources, sujets)
-- Valorisation des initiatives individuelles et collectives
-- Revue d'actualité de l'écosystème de la donnée (_technologique_, _juridique_, institutionnelle...)
-- Rejoignez là !
+- [__Rappel des évènements__]{.blue} passés/à venir et actualités
+    + Formations, ressources, sujets traités...
+
+. . . 
+
+- [__Valorisation des initiatives__]{.blue} individuelles et collectives
+
+. . . 
+
+- [__Revue d'actualité__]{.blue} de l'écosystème de la donnée: 
+    + Technologique, juridique, institutionnelle...
+
+. . . 
+
+__Rejoignez là ! Un mail à <ssphub-contact@insee.fr> suffit !__
 
 
 ## Evénements
 
-- OpenHour: retour d'expérience et débats sur une problématique ciblée
+- `OpenHour`: retour d'expérience et débats entre nous
     + Exemple: [bonnes pratiques et valorisation projets _data-science_](https://ssphub.netlify.app/uploads/2022-02-07-open-hour-bonnes-pratiques.pdf)
 
 . . .
@@ -306,7 +324,7 @@ bibliography: references.bib
 . . .
 
 - Masterclass `DataScientest`
-    + Exemple: MLOps
+    + Exemple: `MLOps` le 9 décembre (vous pouvez suivre!)
 
 
 ## Perspectives
