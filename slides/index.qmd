@@ -1,5 +1,5 @@
 ---
-title: Le réseau des data-scientists du SSP
+title: Le réseau des data-scientists
 subtitle: |
   **Séminaire d'intégration des administrateurs de l'Insee**
 author: |
