@@ -129,8 +129,8 @@ bibliography: references.bib
 
 - [**Besoin _data-scientists_**]{.blue} dans l'administration
 - [**Difficulté à conserver**]{.blue} les data-scientists
-- Gains à la [**mutualisation**]{.blue} de solutions disséminées dans plusieurs organisations
 - [**Réforme**]{.blue} des Grands Corps techniques
+- [**Projets similaires disséminés**]{.blue} dans plusieurs organisations
 
 ::: {.callout-note}
 ## Références
@@ -140,7 +140,7 @@ bibliography: references.bib
 - [« Réforme de la haute fonction publique : pour une gestion des ingénieurs par domaines de compétences »](https://www.vie-publique.fr/rapport/283893-reforme-de-la-haute-fonction-publique-les-grands-corps-techniques) Rapport au Premier ministre sur les grands corps techniques de l'État
 :::
 
-## Principaux enseignements
+## Principaux constats
 
 - Besoin de __[formation en continu]{.blue}__ dans un _champ_ mouvant
 
@@ -155,35 +155,40 @@ bibliography: references.bib
 . . .
 
 - Des [**besoins RH**]{.blue}:
-    + __400__ experts nécessaires en plus (horizon 2023)
+    + __400__ experts nécessaires en plus (horizon 2023, toutes administrations)
     + Valoriser profils _data-scientists_ dans les parcours RH
 
 ## Solutions envisagées {.smaller}
 
 
 - Le __[réseau des _data-scientists_](https://ssphub.netlify.app/)__
-    + Existence officielle depuis septembre
+    + Existence officielle depuis septembre 2022
 
 . . .
 
 - Le __[programme 10%](https://10pourcent.etalab.studio/programme/)__
     + Fonctionnement par projets : OCRisation, publications reproductibles, siretisation, `cartiflette`
+    + Associé à des formations communautaires
 
-![](https://10pourcent.etalab.studio/img/calendrier.png)
+![](https://10pourcent.etalab.studio/img/calendrier.png){width="60%" fig-align="center"}
 
 
 # Le réseau
 
-## Organisation
+## Organisation {.smaller}
+
+<br>
 
 - Groupe informel, sur la base du volontariat :
   + $\approx$ [__280__]{.blue} inscrits volontaires dans la _mailing list_
   + $\approx$ [__150__]{.blue} sur `Tchap`
+  + Equipes métiers,  _data-scientist_ méthodologues, chefs et directeurs...
+
 
 . . .
 
 - __[Gouvernance collective]{.blue}__:
-    + 7 "référents"
+    + 6 "référents": équipe innovation Insee, DGFiP, DARES, DREES
     + Organisation horizontale
 
 . . .
